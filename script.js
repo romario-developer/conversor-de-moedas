@@ -7,6 +7,8 @@ function converterValor(){
 
     const valorDoDia = 5.2
     const valorConvertido = valorDigitado / valorDoDia
+    valorDaMoedaAconverter.innerHTML = valorDigitado
+
     console.log(valorConvertido)
 }
 

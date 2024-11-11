@@ -105,14 +105,14 @@ div {
   align-items: center;
 }
 
-.paragrafo-moeda {
+.moeda {
   color: #777;
   font-size: 14px;
   font-weight: 400;
   line-height: 18px;
 }
 
-.paragrafo-valor {
+.valor-da-moeda-a-converter, .valor-da-moeda-convertida {
   color: #555;
   font-size: 20px;
   font-weight: 700;
